@@ -1,0 +1,32 @@
+.body { background-color: maroon;
+       font-family: 'Montserrat', sans-serif;
+       color:lightslategray;
+
+}
+
+.container-fluid {
+    color:lightslategray;
+}
+
+#logo {
+    color:lightslategray;
+}
+
+#masthead {
+    color:lightslategray;
+}
+
+
+.navbar {
+    height:20px;
+    color:lightslategray;
+}
+
+.col-md-4 {
+    float: left;
+
+}
+
+.footer {
+clear:both;
+}
